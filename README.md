@@ -6,8 +6,6 @@ _A step-by-step implementation of a neural network and autodiff engine from scra
 
 ![Last Commit](https://img.shields.io/github/last-commit/preethamak/Neural-Networks?color=blue)  
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-informational)  
-![Languages](https://img.shields.io/github/languages/count/preethamak/Neural-Networks)  
-![License](https://img.shields.io/github/license/preethamak/Neural-Networks)
 
 ---
 
